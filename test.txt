@@ -1,3 +1,5 @@
 Adding new line this line
 
 This is a sample document!
+
+Third line added!
